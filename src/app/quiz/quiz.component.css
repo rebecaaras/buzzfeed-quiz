@@ -28,6 +28,7 @@
     font-size: 20px;
     font-family: 'Segoe UI';
     margin-bottom: 20px;
+    padding: 20px;
 }
 
 .quiz__options {
@@ -35,6 +36,7 @@
     flex-wrap: wrap;
     justify-content: center;
     margin: auto;
+    margin-bottom: 20px;
 }
 
 .btn-option {
@@ -50,7 +52,6 @@
     padding: 16px 31px;
     text-decoration: none;
     text-shadow: 0 1px 0 #2f6627;
-    margin-bottom: 20px;
 }
 
 .btn-option:hover {
@@ -67,7 +68,7 @@
     height: 350px;
     background-color: #1F0539;
     border-radius: 10px;
-    padding: 30px;
+    padding: 10px;
     display: flex;
     flex-direction: column;
     justify-content: center;
