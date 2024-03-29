@@ -1,27 +1,25 @@
-# BuzzfeedQuiz
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+# Buzzfeed Quiz using Angular
 
-## Development server
+This project is a quiz in the classic Buzzfeed style  built along a DIO course [FrontEnd Development with Angular](https://www.dio.me/bootcamp/coding-future-banco-pan-desenvolvimento-frontend-com-angular).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+It's a quiz with several questions that returns a results depending on the answers.
 
-## Code scaffolding
+## Ferramentas utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular
+- npm
+- Typescript
+- CSS
+- HTML5
 
-## Build
+## Funcionalidades
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Layout responsivo.
 
-## Running unit tests
+## Demonstração
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Desktop](preview-1.png)
 
-## Running end-to-end tests
+![Mobile](preview-3.png)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.

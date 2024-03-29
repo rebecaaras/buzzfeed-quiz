@@ -74,3 +74,9 @@
     justify-content: center;
     align-items: center;
 }
+
+@media screen and (max-width: 426px) {
+    .quiz__logo img{
+        width: 80%;
+    }
+}
